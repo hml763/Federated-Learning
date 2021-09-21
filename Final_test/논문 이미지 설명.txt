@@ -1,0 +1,4 @@
+Fig. 2 Fedavg 설명해놓은 그림은 K=3, IID FMNIST 사진으로 하였음 => 글로벌 에폭 50짜리 40으로 잘라서 함
+
+
+Fig. 3 Fedavg+clustering 설명해놓은 그림은 K=3, IID FMNIST 사진으로 하였음 => 글로벌 에폭 50짜리 40으로 잘라서 함

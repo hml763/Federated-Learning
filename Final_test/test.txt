@@ -1,0 +1,24 @@
+1. 데이터 셋에 따른 분류
+
+(1). Fashion MNIST
+     1) IID
+	1. FedAvg
+	2. FedAvg + clustering (K=3, K=# of clusters, 그냥 주어지는 거라 가정)
+	3. FedAvg + clustering + Tanh
+
+     2) Non-IID
+	1. FedAvg
+	2. FedAvg + clustering (K=3, K=# of clusters, 그냥 주어지는 거라 가정) => optimal 한 K 값 = Future works
+	3. FedAvg + clustering + Tanh
+
+
+(2). CIFAR-10
+     1) IID
+	1. FedAvg
+	2. FedAvg + clustering (K=3, K=# of clusters, 그냥 주어지는 거라 가정)
+	3. FedAvg + clustering + Tanh
+
+     2) Non-IID
+	1. FedAvg
+	2. FedAvg + clustering (K=3, K=# of clusters, 그냥 주어지는 거라 가정)
+	3. FedAvg + clustering + Tanh
